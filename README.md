@@ -1,4 +1,4 @@
-# Prologue - Jekyll Theme
+# GUIAS DE INSTALACION BASICA NEC
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
